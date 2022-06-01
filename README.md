@@ -20,3 +20,7 @@ $ yarn install
 # Executanto aplicação
 $ yarn start
 ```
+
+O app estará disponível no seu browser pelo endereço http://localhost:3000.
+
+Lembrando que será necessário criar uma conta no [Firebase](https://firebase.google.com/) e um projeto para disponibilizar um Realtime Database.
